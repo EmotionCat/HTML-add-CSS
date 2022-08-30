@@ -1,0 +1,12 @@
+.Top-bar {
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    margin: 0px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+.Search-bar {
+    height: 50px;
+}

@@ -1,0 +1,37 @@
+.a_amazon {
+    color: rgb(0, 113, 113);
+}
+
+.p_nike {
+    font-weight: 900;
+    font-size: 35px;
+    font-family: 'Times New Roman';
+}
+.p_39 {
+    color: rgb(0, 118, 0);
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: 'Times New Roman';
+}
+.p_Fr {
+    font-size: 20px;
+    font-weight: lighter;
+    font-family: 'Times New Roman';
+}
+.button_a {
+    background-color: rgb(255, 216, 20);
+    height: 35px;
+    width: 120px;
+    border: none;
+    border-radius: 18px;
+    font-weight: bolder;
+    margin-right: 10px;
+}
+.button_b {
+    background-color: rgb(255, 164, 28);
+    height: 35px;
+    width: 120px;
+    border: none;
+    border-radius: 18px;
+    font-weight: bolder;
+}
